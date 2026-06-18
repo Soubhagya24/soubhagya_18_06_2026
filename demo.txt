@@ -1,2 +1,0 @@
-This code line 1 belongs to demobranchA for version 4B
-This code line 2 belongs to demobranchA for version 4B
